@@ -1,8 +1,8 @@
-# Write a function called loading_screen that prints
-# "This page is loading..." to the console.
+# Write a function called bloomberg_terminal that prints
+# "This is the bloomberg terminal..." to the console.
 
-def loading_screen():
-  print("This page is loading...")
+def bloomberg_terminal():
+  print("This is the bloomberg terminal...")
   
-loading_screen()
+bloomberg_terminal()
 
